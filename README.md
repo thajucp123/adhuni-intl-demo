@@ -47,7 +47,7 @@ This project is a modern, responsive web application designed to showcase Adhuni
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/thajucp123/adhuni-intl-demo.git
    ```
 2. **Local Development:**
    - Simply open `index.html` in any modern web browser.
